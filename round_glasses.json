@@ -1,0 +1,8 @@
+{
+	"lens": { "type": "round", "diameter":1.75  },
+	"bridge_w":0.60,
+	"bridge_h":0.25,
+	"temple_holder_h":0.50,
+   "temple_holder_w":0.23,
+   "color":{"frame": "#00FF00", "lens":"#0000FF"}
+}

@@ -1,0 +1,8 @@
+{
+	"lens": { "type": "rectangle", "height":1.75, "width":1.0  },
+	"bridge_w":0.61,
+	"bridge_h":0.22,
+	"temple_holder_h":0.48,
+	"temple_holder_w":0.18,
+   "color":{"frame": "#0000FF", "lens":"#00FF00"}
+}
